@@ -3,7 +3,7 @@
 Welcome! This repository showcases my data analytics projects and technical work.
 
 ## Contents
-- [Featured Projects](features-projects) 
+- [Featured Projects](https://github.com/hueyjian/portfolio/blob/main/README.md#featured-projects)
 - SQL
 - Python
 - Power BI
