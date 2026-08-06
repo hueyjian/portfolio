@@ -25,15 +25,14 @@ Welcome! This repository showcases my data analytics projects and technical work
 
 ## SQL
 
-A collection of SQL scripts covering data cleaning, joins, CTEs, window functions, and analysis.
-
-### [Data Cleaning](https://github.com/yourusername/sql-scripts/tree/main/customer-cleaning)
-Cleaned duplicate records, handled null values, standardized formatting.
+### [Shipment Data Cleaning](https://github.com/hueyjian/SQL-scripts#shipments-data-cleaning)
+**Description:** Data cleaning & validation project using SQL. Transformed a messy shipment dataset by standardising formatting and flagging data quality issues for review.
+**Tools:** SQL, Google Big Query
 
 ### [Sales Analysis](https://github.com/yourusername/sql-scripts/tree/main/sales-analysis)
 Analysed sales trends using CTEs and window functions.
 
-➡️ [View more](https://github.com/hueyjian/SQL-scripts)
+➡️ [View more](https://github.com/hueyjian/SQL-scripts/blob/main/README.md)
 
 ---
 
